@@ -1,0 +1,11 @@
+Sure! Let's write a Java program using methods to perform the following tasks:
+
+Question: Write a Java program that defines three methods:
+
+1. `calculateSquare`: This method takes an integer as input and returns the square of that number.
+2. `calculateCube`: This method takes an integer as input and returns the cube of that number.
+3. `calculateSum`: This method takes two integers as input and returns their sum.
+
+In the main program, prompt the user to enter an integer. Then, call the `calculateSquare` method to calculate and display the square of the entered number. Next, call the `calculateCube` method to calculate and display the cube of the entered number. Finally, ask the user to enter two more integers, and call the `calculateSum` method to calculate and display their sum.
+
+Your task is to implement the three methods mentioned above and the main program logic to fulfill the requirements mentioned in the question.

@@ -1,0 +1,14 @@
+Sure! Here's a question that involves creating objects:
+
+Question: Class Grades
+
+Create a Java class called `Student` to represent a student's grades. The class should have the following features:
+
+1. Instance variables to store the student's name (String) and three subject grades (int) - let's call them `grade1`, `grade2`, and `grade3`.
+2. A constructor that takes the student's name and three grades as parameters and initializes the instance variables.
+3. A method called `calculateAverage` that calculates and returns the average grade of the student.
+4. A method called `displayDetails` that displays the student's name, three subject grades, and the calculated average.
+
+In the main program, create three instances of the `Student` class with different names and grades, and then call the `displayDetails` method for each student to display their information.
+
+Your task is to implement the `Student` class and the main program logic to fulfill the requirements mentioned above.
